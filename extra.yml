@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: extra
+server:
+  connection-timeout: 30
+  port: 8082
+  servlet:
+    context-path: /
